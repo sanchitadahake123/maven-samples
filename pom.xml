@@ -8,6 +8,7 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Parent</name>
+  <url>http://13.232.137.228:8081/repository/Snapshot/</url>
   <description>Just a pom that makes it easy to build both projects at the same time.</description>
 
   <modules>
