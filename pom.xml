@@ -18,14 +18,4 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-         
-<modules>
-    <module>multi-module</module>
-    <module>single-module</module>
-  </modules>
-
-  <prerequisites>
-    <maven>3.0.3</maven>
-  </prerequisites>
-
 </project>
